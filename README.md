@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CheahHaoYi, a Computer Engineering and Management Double Major at the National University of Singapore
+- 👀 I’m interested in Web Dev, IoT and Networking
+- 🌱 I’m currently learning ReactJS, Adruino and Rasp Pi
+- 💞️ I’m looking to collaborate on small Web Projects and hardware jadget
+- 📫 Kindly email me at haoyi@comp.nus.edu.sg if you have some ideas in mind!
